@@ -5,6 +5,12 @@ This application utilizes the Llama2-7B-Chat-GGML model for generating blog cont
 ## Llama2-7B-Chat-GGML Model
 The Llama2-7B-Chat-GGML model, also known as the LLM (Large Language Model), is a variant of the GPT (Generative Pre-trained Transformer) architecture specifically fine-tuned for generating conversational responses and text generation tasks. Trained on a diverse range of internet text, this model has a capacity of 7 billion parameters, enabling it to generate coherent and contextually relevant text across various domains. The Llama2-7B-Chat-GGML model serves as the core component of the blog generation application, providing the underlying language generation capabilities that power the content creation process.
 
+## Model Download
+
+You can download the pre-trained Llama2-7B-Chat-GGML model from the following link:
+
+[Download Llama2-7B-Chat-GGML Model](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML)
+
 ## Installation
 
 To run this application locally, follow these steps:
