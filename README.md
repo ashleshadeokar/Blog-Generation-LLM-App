@@ -11,13 +11,13 @@ To run this application locally, follow these steps:
 
 - Clone this repository to your local machine.
 - Install the required libraries by running:
-   pip install -r requirements.txt
+   'pip install -r requirements.txt'
 
 ## Usage
 
 1. Navigate to the directory where the application is located.
 2. Run the following command to start the application: 
-  streamlit run app.py
+  'streamlit run app.py'
 3. Access the application through your web browser at http://localhost:8501.
 4. Enter the desired topic, word count, and select the audience category.
 5. Click on the "Generate Blog" button to generate the blog content.
