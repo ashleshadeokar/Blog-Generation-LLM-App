@@ -1,4 +1,4 @@
-# Blog-Generation-LLM-App
+# BlogGenie: Content Creation with LLMs
 
 This application utilizes the Llama2-7B-Chat-GGML model for generating blog content based on user input. Users can specify the topic, desired word count, and the category of the target audience (researcher, data scientist, or general purpose).
 
